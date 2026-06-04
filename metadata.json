@@ -1,0 +1,6 @@
+{
+  "name": "Contabilidade de Enquadramentos AIT",
+  "description": "Aplicativo para análise, contagem e síntese de enquadramentos de autuação de trânsito (AIT) a partir de relatórios em PDF do Sistema SIM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
